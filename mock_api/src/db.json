@@ -1,0 +1,30 @@
+{
+  "hotels": [
+    {
+      "HotelName": "Pear Tree Hotel",
+      "rating": 3,
+      "HotelPrice": "$ 765",
+      "HotelImg": "hotel_one.jpeg",
+      "Offer": "30%"
+    },
+    {
+      "HotelName": "Hilton Hotel & Resort",
+      "rating": 4,
+      "HotelPrice": "$ 524",
+      "HotelImg": "hotel_two.jpeg",
+      "Offer": "50%"
+    },
+    {
+      "HotelName": "San Francisco",
+      "rating": 5,
+      "HotelPrice": "$ 1,289",
+      "HotelImg": "hotel_three.jpeg"
+    },
+    {
+      "HotelName": "Kempinski Hotel CA",
+      "rating": " 4",
+      "HotelPrice": "$ 987",
+      "HotelImg": "hotel_four.jpeg"
+    }
+  ]
+}
