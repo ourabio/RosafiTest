@@ -6,7 +6,7 @@ Run `npm install`.
 
 ## set up Mock API
 
-****** API is configured to work on Android Emulator.
+****** API is configured to work on Android Emulator. (http://10.0.2.2:3000)
 
 
 Change directory to mock_api folder
