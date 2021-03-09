@@ -220,6 +220,8 @@ const styles = StyleSheet.create({
   itemImage: {
     height: 50 * PixelRatio.get(),
     width: 50 * PixelRatio.get(),
+    minHeight: 100,
+    minWidth: 100,
   },
   badge: {
     height: 50,
